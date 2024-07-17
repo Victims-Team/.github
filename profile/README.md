@@ -23,7 +23,7 @@ O Support Hub é onde nossa comunidade de desenvolvedores se reúne para compart
 
 ## Suporte
 
-Se você tiver alguma dúvida ou precisar de ajuda, sinta-se à vontade para abrir uma issue no GitHub ou entrar em contato conosco através do [Support Hub](https://victims.lol/discord).
+Se você tiver alguma dúvida ou precisar de ajuda, sinta-se à vontade para abrir uma issue no GitHub ou entrar em contato conosco através do [![Support Server](https://discord.com/api/guilds/1228359325018226739/embed.png?style=banner3)](https://discord.gg/erro)
 
 ## Licença
 
