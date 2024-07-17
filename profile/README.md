@@ -31,4 +31,4 @@ Todos os projetos nesta organização são licenciados sob a [MIT License](LICEN
 
 ---
 
-Obrigado por fazer escolher Victims.lol! Vamos criar juntos páginas incríveis!
+Obrigado por escolher Victims.lol! Vamos criar juntos páginas incríveis!
